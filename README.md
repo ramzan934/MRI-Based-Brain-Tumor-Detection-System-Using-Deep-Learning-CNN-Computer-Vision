@@ -1,0 +1,2 @@
+# MRI-Based-Brain-Tumor-Detection-System-Using-Deep-Learning-CNN-Computer-Vision
+MRI Based Brain Tumor Detection System uses Computer Vision and Deep Learning techniques, especially Convolutional Neural Networks (CNN), to analyze MRI scans for accurate tumor identification. The system automatically detects, classifies, and segments brain tumors, assisting doctors with faster, reliable, and early diagnosis.
